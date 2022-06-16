@@ -54,7 +54,7 @@ h1 {
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
     padding: 12px;
-    display: block;
+    display: flex;
     margin-top: 30px;
     margin-left: 700px;
     background-color: #fff647;
